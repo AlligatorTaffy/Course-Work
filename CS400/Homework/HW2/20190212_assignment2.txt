@@ -1,0 +1,62 @@
+CS 400 Assignment 2: applying ArrayList
+In this assignment, you are going to build a program that can help rental car companies to manage their rental fleet. 
+
+Requirement:
+- build ArrayList class as container. Size: 30
+- build Car class to represent a car. 
+- An ArrayList object is to hold objects from Car. 
+
+ArrayList class should support following functions: 
+- constructor 
+- add (to append the object)
+- add (add at a specific index)
+- delete (by index)
+- search (an object)
+- traverse (i.e. print the whole list)
+- size (return the size of the list, not the capacity)
+
+This is the rubric to make the assignment
+*******Must have insertion, bubble sort, merge of two lists, binary search
+*******Present ArrayList and Car classes to TA 
+
+Car class should have following fields: 
+- id (int)
+- make (string)
+- model (string)
+- category (string. must be from compact, mid-size, full-size, c-suv, m-suv, f-suv, mini-van, truck)
+- constructor
+- accessors and getters. 
+
+Instructions: 
+- make up 15 cars and store them into the file: cars.data
+- load these cars' info from the file, initialize 15 Car objects, place them into the Arraylist object
+- if new cars are added by user, they should be appended to the cars.data file when exiting the program
+- design a menu based user interface that allows following operations:
+-- search
+---- search by id
+---- search by make
+---- search by category
+-- add a new car (new car id cannot be same as existing ones)
+-- delete an existing car by id
+-- list all cars
+-- exit the program
+- main() should serve mainly as a dispatcher, i.e. it calls other funcitons according user's input. 
+
+Submission: 
+- due: Friday Feb 22, 11:59pm.
+- submit by the cslab, handin program (~cs400/bin/handin 1 cars.data file1.h file1.cpp file2.h ... )
+
+Grading: 
+- compilable and meaningful attemps: 15 points. That is, the code must be compilable while it cannot be just a compilable hello world. 
+- functionality: 60 points (ArrayList 10p, Car 10p, file io 10p, menu functions 30p)
+- comments and indentation: 5 points.
+- explanation to lab TA: 20 points. You need to explain the two classes (ArrayList, Car) to one of the lab TAs, either in the lab time, in their office hours or setup an appointment. Besides, please explain functions covered in class (e.g. insertion sort, bubble sort, merge-two-lists, binary search) to your TA as well. 
+- Total: 15 + 60 + 5 + 20 = 100 points.
+
+
+
+
+
+
+
+

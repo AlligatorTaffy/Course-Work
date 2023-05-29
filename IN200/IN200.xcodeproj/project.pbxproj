@@ -1,0 +1,288 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		42646F21217043280089CBCB /* Dice.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Dice.cpp; sourceTree = "<group>"; };
+		42646F22217043280089CBCB /* Class3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Class3.cpp; sourceTree = "<group>"; };
+		42646F23217043280089CBCB /* Comments.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Comments.cpp; sourceTree = "<group>"; };
+		42646F25217043280089CBCB /* ArrayPasserComments.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ArrayPasserComments.cpp; sourceTree = "<group>"; };
+		42646F26217043280089CBCB /* Chap7CodeCreation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chap7CodeCreation.cpp; sourceTree = "<group>"; };
+		42646F28217043280089CBCB /* Chapter_6_Prep.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Chapter_6_Prep.cpp; sourceTree = "<group>"; };
+		42646F2A217043280089CBCB /* Class2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Class2.cpp; sourceTree = "<group>"; };
+		42646F2B217043280089CBCB /* Wk2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Wk2.cpp; sourceTree = "<group>"; };
+		42646F2D217043280089CBCB /* HW6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HW6.cpp; sourceTree = "<group>"; };
+		42646F2E217043280089CBCB /* Class_Week6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Class_Week6.cpp; sourceTree = "<group>"; };
+		42646F30217043280089CBCB /* InClass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = InClass.cpp; sourceTree = "<group>"; };
+		42646F32217043280089CBCB /* Class4-Strings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Class4-Strings.cpp"; sourceTree = "<group>"; };
+		42646F33217043280089CBCB /* Class4-Age.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Class4-Age.cpp"; sourceTree = "<group>"; };
+		42646F34217043280089CBCB /* Wk4-Jumble.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Wk4-Jumble.cpp"; sourceTree = "<group>"; };
+		42646F35217043280089CBCB /* Class4-inclass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Class4-inclass.cpp"; sourceTree = "<group>"; };
+		42646F37217043280089CBCB /* CritterCaretaker_20.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CritterCaretaker_20.cpp; sourceTree = "<group>"; };
+		42646F39217043280089CBCB /* GameLobby.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GameLobby.cpp; sourceTree = "<group>"; };
+		42646F3B217043280089CBCB /* Pointers_Code_Creation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Pointers_Code_Creation.cpp; sourceTree = "<group>"; };
+		42646F3C217043280089CBCB /* CritterCaretaker_CH8.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CritterCaretaker_CH8.cpp; sourceTree = "<group>"; };
+		42646F3E217043280089CBCB /* InClass3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = InClass3.cpp; sourceTree = "<group>"; };
+		42646F3F217043280089CBCB /* InClass2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = InClass2.cpp; sourceTree = "<group>"; };
+		42646F40217043280089CBCB /* InClass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = InClass.cpp; sourceTree = "<group>"; };
+		42646F41217043280089CBCB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		42646F43217043290089CBCB /* InClass2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = InClass2.cpp; sourceTree = "<group>"; };
+		42646F44217043290089CBCB /* InClass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = InClass.cpp; sourceTree = "<group>"; };
+		42646F46217043290089CBCB /* hello.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hello.cpp; sourceTree = "<group>"; };
+		42646F48217043290089CBCB /* Week5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Week5.cpp; sourceTree = "<group>"; };
+		42646F49217043290089CBCB /* HW5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HW5.cpp; sourceTree = "<group>"; };
+		42646F4A217043290089CBCB /* Week5_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Week5_2.cpp; sourceTree = "<group>"; };
+		42646F4B217043290089CBCB /* Week5_3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Week5_3.cpp; sourceTree = "<group>"; };
+		42646F4D217043290089CBCB /* Midterm.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Midterm.cpp; sourceTree = "<group>"; };
+		42646F4E217043290089CBCB /* ExtraCredit.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ExtraCredit.cpp; sourceTree = "<group>"; };
+		42646F4F217043290089CBCB /* MidtermPrep.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MidtermPrep.cpp; sourceTree = "<group>"; };
+		42646F51217043290089CBCB /* final2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = final2.cpp; sourceTree = "<group>"; };
+		42646F52217043290089CBCB /* final.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = final.cpp; sourceTree = "<group>"; };
+		42646F54217043290089CBCB /* InClass.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = InClass.cpp; sourceTree = "<group>"; };
+		42646F56217043290089CBCB /* Class_Week7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Class_Week7.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		42646F19217042D40089CBCB = {
+			isa = PBXGroup;
+			children = (
+				42646F50217043290089CBCB /* Final */,
+				42646F4C217043290089CBCB /* Midterm */,
+				42646F41217043280089CBCB /* README.md */,
+				42646F45217043290089CBCB /* Week_1 */,
+				42646F29217043280089CBCB /* Week_2 */,
+				42646F20217043280089CBCB /* Week_3 */,
+				42646F31217043280089CBCB /* Week_4 */,
+				42646F47217043290089CBCB /* Week_5 */,
+				42646F2C217043280089CBCB /* Week_6 */,
+				42646F55217043290089CBCB /* Week_7 */,
+				42646F27217043280089CBCB /* Week_9 */,
+				42646F42217043280089CBCB /* Week_10 */,
+				42646F24217043280089CBCB /* Week_11 */,
+				42646F53217043290089CBCB /* Week_12 */,
+				42646F3A217043280089CBCB /* Week_13 */,
+				42646F2F217043280089CBCB /* Week_14 */,
+				42646F36217043280089CBCB /* Week_15 */,
+				42646F3D217043280089CBCB /* Week_16 */,
+				42646F38217043280089CBCB /* Week_17 */,
+			);
+			sourceTree = "<group>";
+		};
+		42646F20217043280089CBCB /* Week_3 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F21217043280089CBCB /* Dice.cpp */,
+				42646F22217043280089CBCB /* Class3.cpp */,
+				42646F23217043280089CBCB /* Comments.cpp */,
+			);
+			path = Week_3;
+			sourceTree = "<group>";
+		};
+		42646F24217043280089CBCB /* Week_11 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F25217043280089CBCB /* ArrayPasserComments.cpp */,
+				42646F26217043280089CBCB /* Chap7CodeCreation.cpp */,
+			);
+			path = Week_11;
+			sourceTree = "<group>";
+		};
+		42646F27217043280089CBCB /* Week_9 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F28217043280089CBCB /* Chapter_6_Prep.cpp */,
+			);
+			path = Week_9;
+			sourceTree = "<group>";
+		};
+		42646F29217043280089CBCB /* Week_2 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F2A217043280089CBCB /* Class2.cpp */,
+				42646F2B217043280089CBCB /* Wk2.cpp */,
+			);
+			path = Week_2;
+			sourceTree = "<group>";
+		};
+		42646F2C217043280089CBCB /* Week_6 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F2D217043280089CBCB /* HW6.cpp */,
+				42646F2E217043280089CBCB /* Class_Week6.cpp */,
+			);
+			path = Week_6;
+			sourceTree = "<group>";
+		};
+		42646F2F217043280089CBCB /* Week_14 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F30217043280089CBCB /* InClass.cpp */,
+			);
+			path = Week_14;
+			sourceTree = "<group>";
+		};
+		42646F31217043280089CBCB /* Week_4 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F32217043280089CBCB /* Class4-Strings.cpp */,
+				42646F33217043280089CBCB /* Class4-Age.cpp */,
+				42646F34217043280089CBCB /* Wk4-Jumble.cpp */,
+				42646F35217043280089CBCB /* Class4-inclass.cpp */,
+			);
+			path = Week_4;
+			sourceTree = "<group>";
+		};
+		42646F36217043280089CBCB /* Week_15 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F37217043280089CBCB /* CritterCaretaker_20.cpp */,
+			);
+			path = Week_15;
+			sourceTree = "<group>";
+		};
+		42646F38217043280089CBCB /* Week_17 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F39217043280089CBCB /* GameLobby.cpp */,
+			);
+			path = Week_17;
+			sourceTree = "<group>";
+		};
+		42646F3A217043280089CBCB /* Week_13 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F3B217043280089CBCB /* Pointers_Code_Creation.cpp */,
+				42646F3C217043280089CBCB /* CritterCaretaker_CH8.cpp */,
+			);
+			path = Week_13;
+			sourceTree = "<group>";
+		};
+		42646F3D217043280089CBCB /* Week_16 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F3E217043280089CBCB /* InClass3.cpp */,
+				42646F3F217043280089CBCB /* InClass2.cpp */,
+				42646F40217043280089CBCB /* InClass.cpp */,
+			);
+			path = Week_16;
+			sourceTree = "<group>";
+		};
+		42646F42217043280089CBCB /* Week_10 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F43217043290089CBCB /* InClass2.cpp */,
+				42646F44217043290089CBCB /* InClass.cpp */,
+			);
+			path = Week_10;
+			sourceTree = "<group>";
+		};
+		42646F45217043290089CBCB /* Week_1 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F46217043290089CBCB /* hello.cpp */,
+			);
+			path = Week_1;
+			sourceTree = "<group>";
+		};
+		42646F47217043290089CBCB /* Week_5 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F48217043290089CBCB /* Week5.cpp */,
+				42646F49217043290089CBCB /* HW5.cpp */,
+				42646F4A217043290089CBCB /* Week5_2.cpp */,
+				42646F4B217043290089CBCB /* Week5_3.cpp */,
+			);
+			path = Week_5;
+			sourceTree = "<group>";
+		};
+		42646F4C217043290089CBCB /* Midterm */ = {
+			isa = PBXGroup;
+			children = (
+				42646F4D217043290089CBCB /* Midterm.cpp */,
+				42646F4E217043290089CBCB /* ExtraCredit.cpp */,
+				42646F4F217043290089CBCB /* MidtermPrep.cpp */,
+			);
+			path = Midterm;
+			sourceTree = "<group>";
+		};
+		42646F50217043290089CBCB /* Final */ = {
+			isa = PBXGroup;
+			children = (
+				42646F51217043290089CBCB /* final2.cpp */,
+				42646F52217043290089CBCB /* final.cpp */,
+			);
+			path = Final;
+			sourceTree = "<group>";
+		};
+		42646F53217043290089CBCB /* Week_12 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F54217043290089CBCB /* InClass.cpp */,
+			);
+			path = Week_12;
+			sourceTree = "<group>";
+		};
+		42646F55217043290089CBCB /* Week_7 */ = {
+			isa = PBXGroup;
+			children = (
+				42646F56217043290089CBCB /* Class_Week7.cpp */,
+			);
+			path = Week_7;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		42646F1A217042D40089CBCB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1000;
+			};
+			buildConfigurationList = 42646F1D217042D40089CBCB /* Build configuration list for PBXProject "IN200" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 42646F19217042D40089CBCB;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		42646F1E217042D40089CBCB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		42646F1F217042D40089CBCB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		42646F1D217042D40089CBCB /* Build configuration list for PBXProject "IN200" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42646F1E217042D40089CBCB /* Debug */,
+				42646F1F217042D40089CBCB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 42646F1A217042D40089CBCB /* Project object */;
+}

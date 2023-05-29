@@ -1,0 +1,112 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		42646F0A2170416D0089CBCB /* HW3_P2.asm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm.asm; path = HW3_P2.asm; sourceTree = "<group>"; };
+		42646F0B2170416D0089CBCB /* Lab3.asm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm.asm; path = Lab3.asm; sourceTree = "<group>"; };
+		42646F0C2170416D0089CBCB /* HW3_P3.asm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm.asm; path = HW3_P3.asm; sourceTree = "<group>"; };
+		42646F0D2170416D0089CBCB /* Lab5.asm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm.asm; path = Lab5.asm; sourceTree = "<group>"; };
+		42646F0E2170416D0089CBCB /* Lab4.asm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm.asm; path = Lab4.asm; sourceTree = "<group>"; };
+		42646F0F2170416D0089CBCB /* HW4_P1.asm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm.asm; path = HW4_P1.asm; sourceTree = "<group>"; };
+		42646F102170416D0089CBCB /* HW2.asm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm.asm; path = HW2.asm; sourceTree = "<group>"; };
+		42646F112170416D0089CBCB /* HW4_P2.asm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.asm.asm; path = HW4_P2.asm; sourceTree = "<group>"; };
+		42646F172170416D0089CBCB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		42646F02217041310089CBCB = {
+			isa = PBXGroup;
+			children = (
+				42646F092170416D0089CBCB /* Assembly */,
+				42646F152170416D0089CBCB /* C */,
+				42646F162170416D0089CBCB /* Project */,
+				42646F172170416D0089CBCB /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+		42646F092170416D0089CBCB /* Assembly */ = {
+			isa = PBXGroup;
+			children = (
+				42646F0A2170416D0089CBCB /* HW3_P2.asm */,
+				42646F0B2170416D0089CBCB /* Lab3.asm */,
+				42646F0C2170416D0089CBCB /* HW3_P3.asm */,
+				42646F0D2170416D0089CBCB /* Lab5.asm */,
+				42646F0E2170416D0089CBCB /* Lab4.asm */,
+				42646F0F2170416D0089CBCB /* HW4_P1.asm */,
+				42646F102170416D0089CBCB /* HW2.asm */,
+				42646F112170416D0089CBCB /* HW4_P2.asm */,
+			);
+			path = Assembly;
+			sourceTree = "<group>";
+		};
+		42646F152170416D0089CBCB /* C */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = C;
+			sourceTree = "<group>";
+		};
+		42646F162170416D0089CBCB /* Project */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Project;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		42646F03217041310089CBCB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1000;
+			};
+			buildConfigurationList = 42646F06217041310089CBCB /* Build configuration list for PBXProject "CS594" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 42646F02217041310089CBCB;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		42646F07217041310089CBCB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		42646F08217041310089CBCB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		42646F06217041310089CBCB /* Build configuration list for PBXProject "CS594" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42646F07217041310089CBCB /* Debug */,
+				42646F08217041310089CBCB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 42646F03217041310089CBCB /* Project object */;
+}
